@@ -108,10 +108,10 @@
     "git_path": "developer9998/DevTrampolineMod",
     "group": "Fun",
     "dependencies": [
-      "Utilla"
-      "Bepinject"
+      "Utilla",
+      "Bepinject",
       "Extenject"
-    ], 
+    ],
     "download_url": "https://github.com/developer9998/DevTrampolineMod/releases/latest/download/DevTrampolineMod.dll"
   },
   {
