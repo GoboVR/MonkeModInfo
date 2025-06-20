@@ -20,6 +20,41 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Bepinject-Auros.zip"
   },
   {
+    "name": "KillerBee",
+    "author": "MonkyGT",
+    "version": "1.0.0",
+    "dependencies": [
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "MonkyGT/KillerBee",
+    "group": "Fun",
+    "download_url": "https://github.com/MonkyGT/KillerBee/releases/latest/download/KillerBee.dll"
+  },
+  {
+    "name": "MonoSandBox",
+    "author": "Orignal:Monosphere Fix:MonkyGT",
+    "version": "1.2.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "MonkyGT/Mono-Sandbox-Mod-Fixed",
+    "group": "Fun",
+    "download_url": "https://github.com/MonkyGT/Mono-Sandbox-Mod-Fixed/releases/latest/download/MonoSandbox.dll"
+  },
+  {
+    "name": "Old-Gamesmodes",
+    "author": "MonkyGT",
+    "version": "0.0.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "MonkyGT/Old-Gamemodes",
+    "group": "Gameplay",
+    "download_url": "https://github.com/MonkyGT/Old-Gamemodes/releases/latest/download/OldGamemodes.dll"
+  },
+  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
@@ -30,6 +65,17 @@
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
     "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Extenject.zip"
+  },
+  {
+    "name": "HoverboardsAnywhere",
+    "author": "Toastconcern",
+    "version": "1.0.0",
+    "dependencies": [
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Toastconcern/HoverboardsAnywhere",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Toastconcern/HoverboardsAnywhere/releases/latest/download/HoverboardsAnywhereV1.0.0.dll"
   },
   {
     "name": "Utilla",
@@ -46,6 +92,37 @@
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
     "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
+  },
+  {
+    "name": "PlayerModel",
+    "author": "NachoEngine",
+    "version": "1.2.9",
+    "git_path": "NachoEngine/PlayerModel",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/NachoEngine/PlayerModel/releases/latest/download/PlayerModel.zip"
+  },
+  {
+    "name": "DevTrampolineMod",
+    "author": "developer9998",
+    "version": "1.1.1",
+    "git_path": "developer9998/DevTrampolineMod",
+    "group": "Fun",
+    "dependencies": [
+      "Utilla"
+      "Bepinject"
+      "Extenject"
+    ], 
+    "download_url": "https://github.com/developer9998/DevTrampolineMod/releases/latest/download/DevTrampolineMod.dll"
+  },
+  {
+    "name": "Newtonsoft.JSON",
+    "author": "legoandmars",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "dependencies": [
+    ], 
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/latest/download/Newtonsoft.Json-12.0.3.zip"
   },
   {
     "name": "LivSkins",
